@@ -54,8 +54,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/timemaster.git
-   cd timemaster
+   git clone https://github.com/EsterMn3/TimeMaster-ReactJs.git
    ```
 
 2. **Install Dependencies: Ensure you have Node.js installed, then run:**
